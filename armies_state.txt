@@ -1,16 +1,84 @@
 Initial State:
-Soldier: A1, Position: (1,1), Health: 23, Damage: 8
-Soldier: M1, Position: (3,0), Health: 53, Damage: 2
-Soldier: M2, Position: (1,3), Health: 73, Damage: 8
-Soldier: C2, Position: (1,0), Health: 99, Damage: 37
-Army 1 - Remaining Soldiers: 2, Soldiers Lost This Round: 0
-Army 2 - Remaining Soldiers: 2, Soldiers Lost This Round: 0
+Soldier: C1, Position: (3,2), Health: 13, Damage: 5
+Soldier: C1, Position: (2,4), Health: 50, Damage: 27
+Soldier: R1, Position: (2,0), Health: 54, Damage: 16
+Soldier: C1, Position: (3,1), Health: 41, Damage: 17
+Soldier: M1, Position: (3,0), Health: 59, Damage: 5
+Soldier: M2, Position: (2,3), Health: 90, Damage: 23
+Soldier: R2, Position: (4,1), Health: 47, Damage: 34
+Soldier: R2, Position: (0,3), Health: 15, Damage: 48
+Soldier: M2, Position: (0,4), Health: 42, Damage: 2
+Soldier: R2, Position: (3,4), Health: 81, Damage: 37
+Army 1 - Remaining Soldiers: 5, Soldiers Lost This Round: 0
+Army 2 - Remaining Soldiers: 5, Soldiers Lost This Round: 0
 
 State after round 1:
-Soldier: A1, Health: -51 (Defeated), Damage: 8
-Soldier: M1, Health: -21 (Defeated), Damage: 2
-Soldier: M2, Position: (2,3), Health: 73, Damage: 8
-Soldier: C2, Position: (2,0), Health: 81, Damage: 37
-Army 1 - Remaining Soldiers: 0, Soldiers Lost This Round: 2
-Army 2 - Remaining Soldiers: 2, Soldiers Lost This Round: 0
+Soldier: C1, Position: (3,3), Health: 13, Damage: 5
+Soldier: C1, Health: -3 (Defeated), Damage: 27
+Soldier: R1, Position: (2,0), Health: 54, Damage: 16
+Soldier: C1, Health: -37 (Defeated), Damage: 17
+Soldier: M1, Health: -19 (Defeated), Damage: 5
+Soldier: M2, Health: -18 (Defeated), Damage: 23
+Soldier: R2, Position: (4,1), Health: 11, Damage: 34
+Soldier: R2, Position: (0,3), Health: 23, Damage: 48
+Soldier: M2, Position: (0,4), Health: 42, Damage: 2
+Soldier: R2, Position: (2,4), Health: 27, Damage: 37
+Army 1 - Remaining Soldiers: 2, Soldiers Lost This Round: 3
+Army 2 - Remaining Soldiers: 4, Soldiers Lost This Round: 1
+
+State after round 2:
+Soldier: C1, Position: (4,3), Health: 13, Damage: 5
+Soldier: C1, Health: -3 (Defeated), Damage: 27
+Soldier: R1, Position: (2,1), Health: 54, Damage: 16
+Soldier: C1, Health: -37 (Defeated), Damage: 17
+Soldier: M1, Health: -19 (Defeated), Damage: 5
+Soldier: M2, Health: -18 (Defeated), Damage: 23
+Soldier: R2, Health: -10 (Defeated), Damage: 34
+Soldier: R2, Position: (0,3), Health: 31, Damage: 48
+Soldier: M2, Position: (0,4), Health: 42, Damage: 2
+Soldier: R2, Position: (3,4), Health: 27, Damage: 37
+Army 1 - Remaining Soldiers: 2, Soldiers Lost This Round: 0
+Army 2 - Remaining Soldiers: 3, Soldiers Lost This Round: 1
+
+State after round 3:
+Soldier: C1, Health: -29 (Defeated), Damage: 5
+Soldier: C1, Health: -3 (Defeated), Damage: 27
+Soldier: R1, Position: (2,2), Health: 54, Damage: 16
+Soldier: C1, Health: -37 (Defeated), Damage: 17
+Soldier: M1, Health: -19 (Defeated), Damage: 5
+Soldier: M2, Health: -18 (Defeated), Damage: 23
+Soldier: R2, Health: -10 (Defeated), Damage: 34
+Soldier: R2, Position: (0,3), Health: 39, Damage: 48
+Soldier: M2, Position: (0,4), Health: 42, Damage: 2
+Soldier: R2, Position: (4,4), Health: 17, Damage: 37
+Army 1 - Remaining Soldiers: 1, Soldiers Lost This Round: 1
+Army 2 - Remaining Soldiers: 3, Soldiers Lost This Round: 0
+
+State after round 4:
+Soldier: C1, Health: -29 (Defeated), Damage: 5
+Soldier: C1, Health: -3 (Defeated), Damage: 27
+Soldier: R1, Position: (3,2), Health: 54, Damage: 16
+Soldier: C1, Health: -37 (Defeated), Damage: 17
+Soldier: M1, Health: -19 (Defeated), Damage: 5
+Soldier: M2, Health: -18 (Defeated), Damage: 23
+Soldier: R2, Health: -10 (Defeated), Damage: 34
+Soldier: R2, Position: (1,3), Health: 47, Damage: 48
+Soldier: M2, Position: (1,4), Health: 42, Damage: 2
+Soldier: R2, Position: (4,4), Health: 17, Damage: 37
+Army 1 - Remaining Soldiers: 1, Soldiers Lost This Round: 0
+Army 2 - Remaining Soldiers: 3, Soldiers Lost This Round: 0
+
+State after round 5:
+Soldier: C1, Health: -29 (Defeated), Damage: 5
+Soldier: C1, Health: -3 (Defeated), Damage: 27
+Soldier: R1, Health: -52 (Defeated), Damage: 16
+Soldier: C1, Health: -37 (Defeated), Damage: 17
+Soldier: M1, Health: -19 (Defeated), Damage: 5
+Soldier: M2, Health: -18 (Defeated), Damage: 23
+Soldier: R2, Health: -10 (Defeated), Damage: 34
+Soldier: R2, Position: (1,2), Health: 5, Damage: 48
+Soldier: M2, Position: (1,4), Health: 42, Damage: 2
+Soldier: R2, Position: (4,4), Health: 17, Damage: 37
+Army 1 - Remaining Soldiers: 0, Soldiers Lost This Round: 1
+Army 2 - Remaining Soldiers: 3, Soldiers Lost This Round: 0
 
